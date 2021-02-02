@@ -1,4 +1,4 @@
-# sidebar-project
+# Sidebar project
 
 ## About
 This project is part of the React Tutorials and Projects Course that I've been taking. The goal of this project is understanding how to use React Hooks to create a side bar and a modal window. 
